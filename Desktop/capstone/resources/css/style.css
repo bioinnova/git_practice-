@@ -9,6 +9,7 @@ body{
 
 
 .box-one{
+
     color: grey;
     display: flex;
     text-align: center;
@@ -22,6 +23,7 @@ body{
 
 .students-photo{
     width: 60%;
-    
+    box-sizing: border-box;
+
 }
 
