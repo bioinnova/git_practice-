@@ -6,16 +6,17 @@ body{
     font-size: 30px;
     color: black;
     }
-.slogans{
-    font-size: 30px;
-    color:grey
-}
+
+
 .box-one{
     color: grey;
+    display: flex;
+    text-align: center;
 }
 
 .header-two{
     font-size: 24px;
     text-align:right;
+    float: right;
 }
 
