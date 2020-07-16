@@ -1,28 +1,12 @@
 body{
-    background-color: aliceblue;
+    background-color: rgb(16, 124, 16);
+
 }
 
-.slogan{
-    font-size: 30px;
-    color: black;
-    }
-
-
-.boxone{
+.banner {
     background-color: grey;
-    display: flex;
-    text-align: center;
 }
 
-.header-two{
-    font-size: 24px;
-    text-align:right;
-    float: right;
+h1{
+ text-align: top;
 }
-
-.students-photo{
-    width: 60%;
-    box-sizing: border-box;
-
-}
-
