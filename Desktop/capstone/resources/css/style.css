@@ -9,8 +9,7 @@ body{
 
 
 .boxone{
-
-    color: grey;
+    background-color: grey;
     display: flex;
     text-align: center;
 }
