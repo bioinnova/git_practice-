@@ -1,5 +1,22 @@
+.body{
+    background-color: honeydew;
+}
 .container
 {
-    display: flex;
-    justify-content: space-between;
+    position: relative;
+    background-color: beige;
+}
+
+*/ part two */
+
+.placeholder 
+{
+    background-color: grey;
+}
+
+.banner {
+    width: 60%;
+    display: inline-block;
+    position: relative;
+    margin-left: auto;
 }
