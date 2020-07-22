@@ -1,10 +1,23 @@
 .body{
-    background-color: honeydew;
+    background-color: white;
 }
 .container
 {
-    position: relative;
-    background-color: beige;
+    display: flex;
+    background-color:white;
+}
+
+.container > div{
+    flex-basis: 32px;
+    align-items: flex-start;
+
+}
+
+.header {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    font-size: 20px;
 }
 
 */ part two */
