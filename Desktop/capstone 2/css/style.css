@@ -1,35 +1,3 @@
-.body{
+.parent{
     background-color: white;
-}
-.container
-{
-    display: flex;
-    background-color:white;
-}
-
-.container > div{
-    flex-basis: 32px;
-    align-items: flex-start;
-
-}
-
-.header {
-    position: absolute;
-    top: 0px;
-    right: 0px;
-    font-size: 20px;
-}
-
-*/ part two */
-
-.placeholder 
-{
-    background-color: grey;
-}
-
-.banner {
-    width: 60%;
-    display: inline-block;
-    position: relative;
-    margin-left: auto;
 }
